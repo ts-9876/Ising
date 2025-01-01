@@ -3,7 +3,7 @@
 This repository contains computational implementations of the Ising model to explore concepts in statistical mechanics and optimization:
 
 - **Energy Minimization**: Code to minimize the energy of an Ising lattice using:
-  - A **greedy algorithm** for basic optimization. One of the problems with this method is that the lattice can get stuck in a local minimum.
+  - A **greedy algorithm** for basic optimization. This method tends to get stuck in local minima.
   - **Simulated annealing** for a more robust approach to escape local minima.
 - **Metropolis Algorithm**: Implementation to simulate the Ising model dynamics, producing a visual **GIF** of the lattice evolution. This gif shows my metropolis implementation at a low temperature.
 
