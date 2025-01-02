@@ -1,6 +1,6 @@
 # Ising Model Simulations
 
-This repository contains computational implementations of the Ising model to explore concepts in statistical mechanics and optimization:
+This repository contains computational implementations of the Ising model to explore concepts in statistical mechanics and optimization. The Ising model is also adjacent to my senior research project involving Edwards-Anderson spin glasses.
 
 - **Energy Minimization**: Code to minimize the energy of an Ising lattice using:
   - A **greedy algorithm** for basic optimization. This method tends to get stuck in local minima.
