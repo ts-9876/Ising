@@ -7,5 +7,4 @@ This repository contains computational implementations of the Ising model to exp
 ![Metropolis](https://github.com/user-attachments/assets/489dbe8c-2604-4ea6-bfde-bfd2f2bfb469)
 
 
-More energy minimization techniques will be added in future updates!
 
