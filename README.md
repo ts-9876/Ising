@@ -1,4 +1,4 @@
-# Ising Model Simulations
+# Ising Model Simulation
 
 This repository contains computational implementations of the Ising model to explore concepts in statistical mechanics and optimization. 
 
