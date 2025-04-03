@@ -1,6 +1,6 @@
 # Spin Glass Simulations and Ising Model
 
-This repository contains an implementation of a graph neural network that searches for the ground states of spin glasses and an implementation of Metropolis. 
+This repository contains an implementation of a graph neural network that searches for the ground states of spin glasses (my senior thesis project) and an implementation of Metropolis. 
 
 **AI Optimization**: Graph neural network meant to optimize 2D EA spin glasses with Gaussian-distributed couplings.
 
